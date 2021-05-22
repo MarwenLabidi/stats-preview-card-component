@@ -1,0 +1,4 @@
+# Avoid design folder#
+design
+# Avoid styles-guide file#
+styles-guide.md
